@@ -1,1 +1,52 @@
-既然定岗为 【C# 上位机软件工程师】，你今晚下班后不需要再看任何迷茫的资料，直接按照这三步死流程走：不要看纯小白网课：直接去B站搜 【C# 通信库 HslCommunication 教程】 或 【C# 读写西门子 S7-1200 PLC 仿真】。你3年的后端功底，看这个就像看1+1=2一样轻松。你会发现，上位机不过就是换了层皮的“后端网络通信+数据库存储”。在简历中隐藏“外包”焦虑，突出“工程规范”：将你的3年经历包装为：“深耕大型系统后端开发，具备严谨的文档对齐、系统高可用重构能力。精通强类型语言及规范化工程交付，善于处理海量工业物联网（IoT）数据的存储与高可靠通信。”精准投递标签：在招聘软件上，直接屏蔽所有互联网公司，把行业锁定在【新能源/锂电、半导体设备、医疗仪器制造、国资重工/仓储】，岗位只搜 【上位机开发】 或 【C#软件工程师】。
+# AI 软件开发学习地图
+
+> 1. 全体学员须完成 L1 级培训并通过相应考试，方可开展 L2-L4 级课程学习及技能鉴定
+> 2. 已满足准入条件的 L2-L4 课程学员，可结合自身实际情况剪裁 L2-L4 阶段课程内容；L2/L3/L4 阶段考试成绩由 L1 考试成绩与对应等级 gohire 技能鉴定结果共同构成
+> 3. 本学习地图为学习指导性文件，学员在满足各项准入要求的前提下，可结合实际自主选择学习内容
+> 4. L1 级考试
+
+---
+
+## 课程总表
+
+| 序号 | 层级 | 学习课程 | 课程简介 | 学时(h) | 授课模式 | 要求 | 课程链接 | 考试 |
+|:---:|:---:|:---|:---|:---:|:---:|:---:|:---|:---|
+| 1 | L1 必修（全员） | AI Coding 导论 | 政企数字化转型与 AI 项目管理专家，拥有 10 年以上大型研发团队管理经验，主导华为/非华为多平台 AI 项目的全生命周期交付，在跨部门资源协调、复杂项目进度管控与风险预警方面具备深厚积累，擅长将前沿 AI 技术方案落地为可规模化的业务成果 | 1.5 | 线上课程 | 必修 | 角马平台 | 角马平台考试 |
+| 2 | L1 必修（全员） | MCP/SKILL 的原理和应用 | 全栈开发与 AI 工程化落地专家，深耕 Java/Ruby/PHP 多语言技术栈及 SpringBoot 微服务架构，拥有 10 年以上企业级系统开发与架构设计经验，擅长高并发系统搭建、工具链集成与自动化运维工程化实践。精通 AI 开发工具链配置、规则文件（Rule/Skill）定制与多模型协同工作流设计，具备将复杂 AI 技术方案转化为团队标准化工程实践的核心能力，是 MCP 协议与智能体平台工程化落地的实战先行者 | 1.5 | 线上课程 | 必修 | 角马平台 | |
+| 3 | L1 必修（全员） | 开发环境搭建与多工具配置 | AI 应用开发与 Vibe Coding 实践先锋，深耕 AI 辅助编码在大型业务系统中的工程化落地，具备从需求澄清、后端接口开发到前端功能实现的全栈 AI 开发能力，熟练使用 Claude Code/Kimi 等多模型协同工具链完成复杂模块的快速迭代交付 | 1.5 | 线上课程 | 必修 | 角马平台 | |
+| 4 | L1 必修（全员） | 基础提示词工程 | AI 应用开发与测试智能化专家，精通 LLM 原理、Prompt 工程与 RAG 技术，深入了解多智能体编排与交互逻辑设计，擅长将 AI 能力深度融入测试场景，具备从需求分析到前后端原型开发的全链路 AI 应用落地能力 | 1.5 | 线上课程 | 必修 | 角马平台 | |
+| 5 | L1 必修（全员） | Vibe Coding 实战 | AI 项目交付、全栈开发领域实战专家，多年深耕企业数字化平台架构搭建与项目落地，聚焦 AI 赋能软件开发领域落地实践，深耕智能化开发体系建设，精通 AI 驱动编程全链路方案规划、落地实施与工程化落地，具备大量一线项目实战沉淀，擅长搭建一体化 AI 编程落地能力体系 | 1.5 | 线上课程 | 必修 | 角马平台 | |
+| 6 | L1 必修（全员） | AI 辅助测试入门 | AI 测试与质量保障专家，专注于 AI 驱动测试体系建设，在 AI 智能管理平台（杜邦穿透式管理、业务日报智能工作台）的全流程测试落地、接口稳定性验证与自动化测试方面具备深厚积累，擅长 AI 需求梳理与全流程质量把控 | 1 | 线上课程 | 必修 | 角马平台 | |
+| 7 | L2 | 提示词工程（吴恩达） | 26 年公认最好的零基础提示词工程课程，9 大核心技巧从入门到落地，一次讲清！Prompt Engineering | 3 | 线上课程 | 选修 | [B 站视频](https://www.bilibili.com/video/BV1dR786ZEtG) | L1 级课程角马平台考试 + L2/L3/L4 gohire 技能鉴定 |
+| 8 | L2 | Prompting Guide | 《Prompting Guide》中文版「提示词技术」「迭代优化」章节，结合现网模块重构/迁移案例自学 | 4 | 文献资料 | 选修 | [Prompting Guide 中文版](https://www.promptingguide.ai/zh) | |
+| 9 | L2 | AI 辅助测试入门 | AI 生成测试用例原理、覆盖率提升策略、生成测试用例的验证与修正（含 JUnit5 / pytest 样例） | 3 | 线上课程 | 选修 | L1 阶课程角马平台 | |
+| 10 | L2 | CodeRabbit 官方文档 + 阿里 Open Code Review 实战教程 | 《CodeRabbit 官方文档》评审规则与触发策略，结合仓库现网 PR 自学评估 AI 评审有效性 | 3 | 文献资料（英文）+ 线上课程 | 选修 | [CodeRabbit 文档](https://docs.coderabbit.ai) / [阿里教程](https://www.bilibili.com/video/BV1ZT7N69ES7) | |
+| 11 | L2 | OWASP Top 10 for LLM + Vibe Coding 安全防护 | OWASP《Top 10 for LLM Applications》核心风险项 + 部门红线条目自学；Vibe Coding 安全防护技巧：从密钥管理到注入、XSS 防护 | 2 | 文献资料（部分英文） | 选修 | [OWASP LLM Top10](https://genai.owasp.org/llm-top-10/) / [Vibe Coding 安全](https://cloud.tencent.cn/developer/article/2672055) | |
+| 12 | L2 | 用 Claude Code 做 Code Review | 配好 REVIEW.md 与提示词，让 Claude Code 扫机械错误、人审业务逻辑，两个月漏检率降七成 | 1 | 文献资料 | 选修 | [文章](https://developer.cloud.tencent.cn/article/2680210) | |
+| 13 | L2 | AI+软件测试系列 + 3 个 Prompt 打造故障福尔摩斯 | 《AI+软件测试系列》缺陷分析/日志分析/根因定位章节（含工具使用与判读）；《3 个 Prompt 打造故障福尔摩斯》 | 2 | 文献资料 + 线上课程 | 选修 | [AI+软件测试](https://www.bilibili.com/video/BV13HwdzYEBu) / [故障福尔摩斯](https://developer.aliyun.com/article/1750605) | |
+| 14 | L3 | 提示词工程（吴恩达） | 26 年公认最好的零基础提示词工程课程，9 大核心技巧从入门到落地（L2 已学可跳过） | 3 | 线上课程 | 选修 | [B 站视频](https://www.bilibili.com/video/BV1dR786ZEtG) | |
+| 15 | L3 | MCP 官方文档 + Copilot 集成 DevOps 流水线 7 个最佳实践 | MCP 官方文档核心章节 + IDE 插件/CLI/API 集成方案样例自学；七项实践把 Copilot 嵌入流水线：规范统一、PR 加速、测试生成、CI 补全、安全预警 | 6 | 文献资料（部分英文） | 选修 | [MCP 官方文档](https://modelcontextprotocol.io) / [CSDN](https://blog.csdn.net/GatherLume/article/details/155634449) | |
+| 16 | L3 | 大模型在需求分析与设计中的提效实践 | 多 Agent + RAG 打通 MRD→PRD→系分→代码骨架，实现需求到研发端到端提效 | 1 | 文献资料 | 选修 | [文章](https://developer.aliyun.com/article/1704789) / [视频](https://www.bilibili.com/video/BV1BCNi67E74) | |
+| 17 | L3 | spec-kit | 学习 SDD 核心理念与流程，掌握 Spec 编写规范与 AI 辅助 Spec 生成验证方法 | 8 | 文献资料（英文） | 选修 | [GitHub](https://github.com/github/spec-kit) | |
+| 18 | L3 | 企业级 AI 提效战略转型方法论·实践教程 | 从「思想转变」到「全员 AI 提效」的完整路径——一套经过 80+ 人研发团队实战验证的方法论，配套可运行 demo、角色手册、汇报模板 | 8 | 文献资料 | 选修 | [GitHub](https://github.com/Johnson-Jia/ai-landing-tutorial) | |
+| 19 | L3 | OWASP Top 10 for LLM Applications | OWASP《Top 10 for LLM Applications》核心风险 + 部门红线条目 + Semgrep 规则样例自学 | 4 | 文献资料（英文） | 选修 | [OWASP LLM Top10](https://genai.owasp.org/llm-top-10/) | |
+| 20 | L4 | Agent 架构实操 | 从零搭建生产级 AI Agent Harness 的 20 章中文教程 | 8 | 文献资料 | 选修 | [GitHub](https://github.com/ryzqi/learn-agent) | |
+| 21 | L4 | Agentic Coding 路线图 + MetaGPT 实战拆解 | 梳理 Agentic Coding 五大协作模式与七天练习路线，从"用 AI 写代码"升级为"指挥 AI 团队"；拆解 MetaGPT 如何用 SOP 串联多角色 Agent，把一句话需求流水线生成可运行代码仓库 | 1 | 文献资料 | 选修 | [文章 1](https://cloud.tencent.com.cn/developer/article/2680227) / [文章 2](https://cloud.tencent.cn/developer/article/2730756) | |
+| 22 | L4 | 从个人生产力到组织能力：LoongSuite-Pilot×SLS 的 AI Coding 度量实践 | 通过 LoongSuite-Pilot 采集异构 AI Coding Agent 事件流，结合 SLS 大盘的 SQL 分析能力，构建从个人使用行为到组织级度量的完整看板 | 1 | 文献资料 | 选修 | [文章](https://developer.aliyun.com/article/1740698) | |
+| 23 | L4 | YD/T 7173-2026《人工智能安全治理系统风险管理能力要求》 | 国内首个面向产业的 AI 风险管理行业标准，规定研发与应用主体需具备组织建设、流程管理、风险防护三大能力，2026.11.1 起实施 | 4 | 文献资料（待发布） | 选修 | 待更新 | |
+| 24 | L4 | Anthropic Engineering | Anthropic《Engineering》系列文章精读 + 行业趋势研讨 | 4 | 文献资料（英文） | 选修 | [Anthropic](https://www.anthropic.com/engineering) | |
+| 25 | L4 | 从 Prompt 到 Loop：企业 Agent 落地的四层工程进化论 | 四层工程框架，走通企业 Agent 从演示到生产的最后一公里：定位故障层级、按序投入资源、避开致命反模式 | 1 | 文献资料 | 选修 | [文章](https://cloud.tencent.cn/developer/article/2688156) |
+| 26 | L4 | AgentTeams 与 AgentLoop：破解企业智能体规模化落地两大难题 | AgentTeams 用"主管+执行"架构管好多智能体协作，AgentLoop 靠观测评估让智能体越用越聪明 | 1 | 文献资料 | 选修 | [文章](https://developer.aliyun.com/article/1747698) | |
+| 27 | L4 | AI 安全治理进阶 | 学习 AI 安全治理进阶方法，掌握 Prompt 注入防御、MCP 安全、供应链安全与合规审计 | 6 | 文献资料 | 选修 | [GitHub](https://github.com/yeasy/ai_security_guide) | |
+
+---
+
+## 层级概览
+
+| 层级 | 课程数 | 必修/选修 | 总学时(h) | 核心主题 |
+|:---:|:---:|:---:|:---:|:---|
+| L1 必修（全员） | 6 | 必修 | 8.5 | AI Coding 导论、MCP/SKILL、开发环境、提示词工程、Vibe Coding、AI 辅助测试 |
+| L2 | 7 | 选修 | 18 | 提示词工程深入、Prompting Guide、AI 测试深入、Code Review、安全、故障排查 |
+| L3 | 6 | 选修 | 30 | MCP 集成 DevOps、需求分析提效、spec-kit、AI 提效方法论、OWASP LLM |
+| L4 | 8 | 选修 | 27 | Agent 架构、Agentic Coding、度量实践、安全标准、Anthropic、四层工程、AgentTeams、安全治理 |
+| **合计** | **27** | — | **83.5** | — |
